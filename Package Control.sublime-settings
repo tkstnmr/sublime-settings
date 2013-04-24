@@ -1,0 +1,24 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"AutoFileName",
+		"Bracketeer",
+		"BracketHighlighter",
+		"Browser Refresh",
+		"ConvertToUTF8",
+		"Emmet",
+		"Git",
+		"HTML5",
+		"LESS",
+		"LESS-build",
+		"Markdown Preview",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"Tag",
+		"Terminal",
+		"Theme - Soda",
+		"TrailingSpaces"
+	]
+}

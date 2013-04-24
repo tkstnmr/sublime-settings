@@ -1,0 +1,37 @@
+{
+	"build_env":
+	{
+		"path": "/usr/local/bin"
+	},
+	"caret_style": "phase",
+	"disable_formatted_linebreak": true,
+	"disabled_single_snippet_for_scopes": "",
+	"draw_minimap_border": true,
+	"file_exclude_patterns":
+	[
+		"*.tar.gz",
+		"*.sql",
+		"*.log",
+		".DS_Store",
+		"*.db",
+		"*.sqlite3",
+		"*.pdf",
+		"*.uml",
+		"*.graffle"
+	],
+	"font_size": 11.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_top": 1,
+	"open_files_in_new_window": true,
+	"scroll_past_end": true,
+	"show_full_path": true,
+	"tab_size": 2,
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
+}
